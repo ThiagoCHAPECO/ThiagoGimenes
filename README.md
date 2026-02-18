@@ -6,23 +6,21 @@ Após consolidar meus conhecimentos em Backend, meu próximo passo será me dese
 
 ---
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
 ### 🛠️ Tecnologias e Ferramentas
 
 #### 🖥️ Backend
-![Java](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />)
-![Spring](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 #### 🎨 Front-end
-![HTML5](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />)
-![CSS3](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />)
-![JavaScript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🗄️ Bancos de Dados
-![PostgreSQL](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />)
-![MySQL](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🔧 Ferramentas e Controle de Versão
-![Git](<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>)
-![GitHub](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
