@@ -23,4 +23,6 @@ Após consolidar meus conhecimentos em Backend, meu próximo passo será me dese
 
 #### 🔧 Ferramentas e Controle de Versão
 ![Git](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />)
-![GitHub](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />)
+![GitHub](
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
+          )
