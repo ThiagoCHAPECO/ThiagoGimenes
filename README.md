@@ -6,6 +6,8 @@ Após consolidar meus conhecimentos em Backend, meu próximo passo será me dese
 
 ---
 
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 ### 🛠️ Tecnologias e Ferramentas
 
 #### 🖥️ Backend
@@ -23,6 +25,4 @@ Após consolidar meus conhecimentos em Backend, meu próximo passo será me dese
 
 #### 🔧 Ferramentas e Controle de Versão
 ![Git](<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>)
-![GitHub](
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
-          )
+![GitHub](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />)
